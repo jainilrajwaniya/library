@@ -2,7 +2,7 @@
 
 Please follow below steps to install the project:
 
-- Take gie clone of the project
+- Take git clone of the project
 - run composer install
 - Create DB named "library" in your DB
 - Create .env file
