@@ -6,7 +6,7 @@ Please follow below steps to install the project:
 - run composer install
 - Create DB named "library" in your DB
 - Create .env file
-- Copy en.example contect to .env
+- Copy content of env.example to .env
 - run db migration : php artisan migrate
-- Test api on post man using given postman collection in root folder : Library.postman_collection
+- Test api on postman using given postman collection in root folder : Library.postman_collection
 - Run feature test to check the funcitonaing of all the apis
