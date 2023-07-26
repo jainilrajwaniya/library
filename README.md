@@ -9,4 +9,4 @@ Please follow below steps to install the project:
 - Copy content of env.example to .env
 - run db migration : php artisan migrate
 - Test api on postman using given postman collection in root folder : Library.postman_collection
-- Run feature test to check the funcitonaing of all the apis
+- Run feature test to check the functioning of all the apis
